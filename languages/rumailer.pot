@@ -1,0 +1,236 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rumailer\n"
+"POT-Creation-Date: 2016-09-27 12:33+0300\n"
+"PO-Revision-Date: 2016-09-26 13:29+0300\n"
+"Last-Translator: Даниил <mistakedeath@gmail.com>\n"
+"Language-Team: Rumailer <info@rumailer.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: rumailer.php\n"
+
+#: lib/widgets.php:15
+msgid "Feedback form on Rumailer"
+msgstr ""
+
+#: lib/widgets.php:17
+msgid "Use the feedback form on Rumailer"
+msgstr ""
+
+#: lib/widgets.php:155
+msgid "Attention!"
+msgstr ""
+
+#: lib/widgets.php:155
+msgid ""
+"After changing the shapes on Rumailer not forget to click the save "
+"button here."
+msgstr ""
+
+#: lib/widgets.php:156
+msgid "Edit form on Rumailer"
+msgstr ""
+
+#: lib/widgets.php:168
+msgid "You have yet not one form!"
+msgstr ""
+
+#: lib/widgets.php:169 rumailer.php:831
+msgid "Create a feedback form"
+msgstr ""
+
+#: rumailer.php:176
+msgid "Rumailer"
+msgstr ""
+
+#: rumailer.php:177 rumailer.php:178
+msgid "Add subscriber"
+msgstr ""
+
+#: rumailer.php:179
+msgid "Add"
+msgstr ""
+
+#: rumailer.php:180
+msgid "Edit subscriber"
+msgstr ""
+
+#: rumailer.php:181
+msgid "New subscriber"
+msgstr ""
+
+#: rumailer.php:182
+msgid "All subscriber"
+msgstr ""
+
+#: rumailer.php:183
+msgid "Show subscriber"
+msgstr ""
+
+#: rumailer.php:184
+msgid "Search subscriber"
+msgstr ""
+
+#: rumailer.php:185 rumailer.php:186
+msgid "Not a subscriber found"
+msgstr ""
+
+#: rumailer.php:188
+msgid "RumailerList"
+msgstr ""
+
+#: rumailer.php:208
+msgid "Subscription list"
+msgstr ""
+
+#: rumailer.php:222
+msgid "FIO"
+msgstr ""
+
+#: rumailer.php:225
+msgid "Sheet"
+msgstr ""
+
+#: rumailer.php:228
+msgid "Email"
+msgstr ""
+
+#: rumailer.php:271
+msgid "All petitions"
+msgstr ""
+
+#: rumailer.php:466
+msgid "Setting"
+msgstr ""
+
+#: rumailer.php:476 rumailer.php:806
+msgid "Information"
+msgstr ""
+
+#: rumailer.php:486 rumailer.php:500 rumailer.php:677
+msgid "Export"
+msgstr ""
+
+#: rumailer.php:622
+#, php-format
+msgid "All %d exported to the subscription list \"%s\""
+msgstr ""
+
+#: rumailer.php:625
+msgid "Error parametr"
+msgstr ""
+
+#: rumailer.php:632
+msgid "Role"
+msgstr ""
+
+#: rumailer.php:644 rumailer.php:646
+msgid "&mdash; No role for this site &mdash;"
+msgstr ""
+
+#: rumailer.php:657 rumailer.php:924
+msgid "List"
+msgstr ""
+
+#: rumailer.php:668
+msgid "The subscription list, will be added to users"
+msgstr ""
+
+#: rumailer.php:814
+msgid "Account balance"
+msgstr ""
+
+#: rumailer.php:818
+msgid "rub"
+msgstr ""
+
+#: rumailer.php:820
+msgid "Fill"
+msgstr ""
+
+#: rumailer.php:820
+msgid "balance"
+msgstr ""
+
+#: rumailer.php:829
+msgid "Create a sign-up sheet"
+msgstr ""
+
+#: rumailer.php:830
+msgid "Get a subscription sheets Rumailer"
+msgstr ""
+
+#: rumailer.php:832
+msgid "Set up a series of letters"
+msgstr ""
+
+#: rumailer.php:837
+msgid "Activity"
+msgstr ""
+
+#: rumailer.php:845
+msgid "Emails Sent this month:"
+msgstr ""
+
+#: rumailer.php:855
+msgid "Subscribers:"
+msgstr ""
+
+#: rumailer.php:864
+msgid "Change rate:"
+msgstr ""
+
+#: rumailer.php:882
+msgid "Settings"
+msgstr ""
+
+#: rumailer.php:888
+msgid "For API you need"
+msgstr ""
+
+#: rumailer.php:888
+msgid "make a request to support"
+msgstr ""
+
+#: rumailer.php:896
+msgid "Name"
+msgstr ""
+
+#: rumailer.php:899
+msgid "Username on Rumailer"
+msgstr ""
+
+#: rumailer.php:903
+msgid "E-mail"
+msgstr ""
+
+#: rumailer.php:906
+msgid "The main user post on Rumailer"
+msgstr ""
+
+#: rumailer.php:910
+msgid "API"
+msgstr ""
+
+#: rumailer.php:913
+msgid "API issued on Rumailer"
+msgstr ""
+
+#: rumailer.php:932
+msgid ""
+"The subscription list, which will be added to users upon registration"
+msgstr ""
+
+#: rumailer.php:943
+msgid "Save"
+msgstr ""

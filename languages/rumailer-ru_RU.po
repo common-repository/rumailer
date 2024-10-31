@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rumailer\n"
+"POT-Creation-Date: 2016-09-27 12:33+0300\n"
+"PO-Revision-Date: 2016-09-27 12:36+0300\n"
+"Last-Translator: Даниил <mistakedeath@gmail.com>\n"
+"Language-Team: Rumailer <info@rumailer.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: rumailer.php\n"
+
+#: lib/widgets.php:15
+msgid "Feedback form on Rumailer"
+msgstr "Форма обратной связи от Rumailer"
+
+#: lib/widgets.php:17
+msgid "Use the feedback form on Rumailer"
+msgstr "Использовать форму обратной связи от Rumailer"
+
+#: lib/widgets.php:155
+msgid "Attention!"
+msgstr "Внимание!"
+
+#: lib/widgets.php:155
+msgid ""
+"After changing the shapes on Rumailer not forget to click the save button "
+"here."
+msgstr ""
+"После изменения формы на Rumailer не забудьте нажать кнопку Сохранить здесь."
+
+#: lib/widgets.php:156
+msgid "Edit form on Rumailer"
+msgstr "Изменить форму на Rumailer"
+
+#: lib/widgets.php:168
+msgid "You have yet not one form!"
+msgstr "У вас есть еще не одна формы!"
+
+#: lib/widgets.php:169 rumailer.php:831
+msgid "Create a feedback form"
+msgstr "Создание формы обратной связи"
+
+#: rumailer.php:176
+msgid "Rumailer"
+msgstr "RumailerList"
+
+#: rumailer.php:177 rumailer.php:178
+msgid "Add subscriber"
+msgstr "Добавить подписчика"
+
+#: rumailer.php:179
+msgid "Add"
+msgstr "Добавить"
+
+#: rumailer.php:180
+msgid "Edit subscriber"
+msgstr "Редактировать подписчика"
+
+#: rumailer.php:181
+msgid "New subscriber"
+msgstr "Новый подписчик"
+
+#: rumailer.php:182
+msgid "All subscriber"
+msgstr "Все подписчики"
+
+#: rumailer.php:183
+msgid "Show subscriber"
+msgstr "Показать подписчика"
+
+#: rumailer.php:184
+msgid "Search subscriber"
+msgstr "Поиск подписчика"
+
+#: rumailer.php:185 rumailer.php:186
+msgid "Not a subscriber found"
+msgstr "Нет подписчиков найден"
+
+#: rumailer.php:188
+msgid "RumailerList"
+msgstr "RumailerList"
+
+#: rumailer.php:208
+msgid "Subscription list"
+msgstr "Подписной лист"
+
+#: rumailer.php:222
+msgid "FIO"
+msgstr "ФИО"
+
+#: rumailer.php:225
+msgid "Sheet"
+msgstr "Лист"
+
+#: rumailer.php:228
+msgid "Email"
+msgstr "E-mail"
+
+#: rumailer.php:271
+msgid "All petitions"
+msgstr "Все петиции"
+
+#: rumailer.php:466
+msgid "Setting"
+msgstr "Настройки"
+
+#: rumailer.php:476 rumailer.php:806
+msgid "Information"
+msgstr "Информация"
+
+#: rumailer.php:486 rumailer.php:500 rumailer.php:677
+msgid "Export"
+msgstr "Экспорт"
+
+#: rumailer.php:622
+#, php-format
+msgid "All %d exported to the subscription list \"%s\""
+msgstr "Все %d подписчика экспортируемы в список подписки \"%s\""
+
+#: rumailer.php:625
+msgid "Error parametr"
+msgstr "Ошибка в параметре"
+
+#: rumailer.php:632
+msgid "Role"
+msgstr "Роль"
+
+#: rumailer.php:644 rumailer.php:646
+msgid "&mdash; No role for this site &mdash;"
+msgstr "Все роли подписчиков"
+
+#: rumailer.php:657 rumailer.php:924
+msgid "List"
+msgstr "Лист"
+
+#: rumailer.php:668
+msgid "The subscription list, will be added to users"
+msgstr "Список подписки, будет добавлена к пользователям"
+
+#: rumailer.php:814
+msgid "Account balance"
+msgstr "Баланс счета"
+
+#: rumailer.php:818
+msgid "rub"
+msgstr "руб"
+
+#: rumailer.php:820
+msgid "Fill"
+msgstr "Заполнить"
+
+#: rumailer.php:820
+msgid "balance"
+msgstr "баланс"
+
+#: rumailer.php:829
+msgid "Create a sign-up sheet"
+msgstr "Создать подписной лист"
+
+#: rumailer.php:830
+msgid "Get a subscription sheets Rumailer"
+msgstr "Получить подписные листы Rumailer"
+
+#: rumailer.php:832
+msgid "Set up a series of letters"
+msgstr "Настроенный серию писем"
+
+#: rumailer.php:837
+msgid "Activity"
+msgstr "Активность"
+
+#: rumailer.php:845
+msgid "Emails Sent this month:"
+msgstr "Отправленные сообщения электронной почты в этом месяце:"
+
+#: rumailer.php:855
+msgid "Subscribers:"
+msgstr "Уже подписались:"
+
+#: rumailer.php:864
+msgid "Change rate:"
+msgstr "Обменный курс:"
+
+#: rumailer.php:882
+msgid "Settings"
+msgstr "Настройки"
+
+#: rumailer.php:888
+msgid "For API you need"
+msgstr "Для API вам нужно"
+
+#: rumailer.php:888
+msgid "make a request to support"
+msgstr "сделать запрос на поддержку"
+
+#: rumailer.php:896
+msgid "Name"
+msgstr "Имя"
+
+#: rumailer.php:899
+msgid "Username on Rumailer"
+msgstr "Имя пользователя на Rumailer"
+
+#: rumailer.php:903
+msgid "E-mail"
+msgstr "E-mail"
+
+#: rumailer.php:906
+msgid "The main user post on Rumailer"
+msgstr "Основной mail  пользователя на Rumailer"
+
+#: rumailer.php:910
+msgid "API"
+msgstr "API"
+
+#: rumailer.php:913
+msgid "API issued on Rumailer"
+msgstr "API выдается на Rumailer"
+
+#: rumailer.php:932
+msgid "The subscription list, which will be added to users upon registration"
+msgstr ""
+"Подписной лист в который будут добавлятся пользователи после регистрации"
+
+#: rumailer.php:943
+msgid "Save"
+msgstr "Сохранить"
+
+#~ msgid "invalid_api_key"
+#~ msgstr "Не верный API ключ!"
